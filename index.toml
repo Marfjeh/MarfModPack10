@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "1bb5e8d62c6c1b08125d858ee8afca117f1d63c03abc0b37a31164aacbe637e5"
+metafile = true
+
+[[files]]
 file = "mods/AdvancedPeripherals-1.20.1-0.7.40r.jar"
 hash = "2f3e35534bdc4c6e31a87b121f6b8e75373607707055210d906e34334f4c9b39"
 
