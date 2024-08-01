@@ -1,0 +1,13 @@
+name = "Mmp 10"
+author = "marf"
+version = "10.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "965606539e15cff7b801df0e1d14d7881eb3afbc7acca11306d2aaa92f3289b0"
+
+[versions]
+forge = "47.3.5"
+minecraft = "1.20.1"
