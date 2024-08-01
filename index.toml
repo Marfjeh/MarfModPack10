@@ -1,29 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "7c77d705915b3a63bff36243ae0fae89d5cd94432d03ddc2075394606ffbe398"
+
+[[files]]
+file = "jar-binaries/.gitkeep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "1bb5e8d62c6c1b08125d858ee8afca117f1d63c03abc0b37a31164aacbe637e5"
 metafile = true
-
-[[files]]
-file = "mods/AdvancedPeripherals-1.20.1-0.7.40r.jar"
-hash = "2f3e35534bdc4c6e31a87b121f6b8e75373607707055210d906e34334f4c9b39"
-
-[[files]]
-file = "mods/AmbientSounds_FORGE_v6.0.2_mc1.20.1.jar"
-hash = "327c435c65402071cf63605ff1fe41b04b497f1ca09aa53dc7b122612216bbd1"
-
-[[files]]
-file = "mods/Clumps-forge-1.20.1-12.0.0.4.jar"
-hash = "8af01712c0dc32cebaff31795ca6d223fddff2ea9b1f5efbd9c3a586a0dacbc0"
-
-[[files]]
-file = "mods/DistantHorizons-2.1.0-a-1.20.1.jar.disabled"
-hash = "c709f8a9433d26dc3addb048d95d61dd880aa45a7c82ff22f54ade8c8ad81e42"
-
-[[files]]
-file = "mods/acedium-0.2.7-beta(1).jar"
-hash = "03cbd3abd91e23c46303d5326613dd8d96ffeb08cc0cb4eea50e74e52b516433"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
@@ -59,10 +47,6 @@ metafile = true
 file = "mods/cc-tweaked.pw.toml"
 hash = "b5b9fb98a3c556205fec1e4a502b2065c596b86e13d6fdace4b2f209ca496257"
 metafile = true
-
-[[files]]
-file = "mods/cccbridge-1.6.3.jar"
-hash = "2f1f194828d6266e99b5a20e190576dde868144bdfd680ac338be1fad19b4d3e"
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
@@ -108,10 +92,6 @@ metafile = true
 file = "mods/domum-ornamentum.pw.toml"
 hash = "127755a295858228bdbc4e696c06adf201eee057e8ed67e785c9180af139d557"
 metafile = true
-
-[[files]]
-file = "mods/dynamic-fps-3.4.3-minecraft-1.20.0-forge.jar"
-hash = "eb4fa65d95250f736f41c896607436154e1ecfbc1337ab819a3c501bfe025164"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
