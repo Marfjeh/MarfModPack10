@@ -5,13 +5,13 @@ file = "README.md"
 hash = "7c77d705915b3a63bff36243ae0fae89d5cd94432d03ddc2075394606ffbe398"
 
 [[files]]
-file = "jar-binaries/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "1bb5e8d62c6c1b08125d858ee8afca117f1d63c03abc0b37a31164aacbe637e5"
 metafile = true
+
+[[files]]
+file = "mods/acedium-0.2.7-beta.jar"
+hash = "03cbd3abd91e23c46303d5326613dd8d96ffeb08cc0cb4eea50e74e52b516433"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
@@ -226,3 +226,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "e9d60c8dd6456b72a8c7b10b052c8945d8904edf070b35d2ca67b9d83d1b2158"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "e09014b6e43e42c2de4699e911d7bd274f7aa908fb0c856a071558b4541e27d9"
