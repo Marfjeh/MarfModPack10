@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "7c77d705915b3a63bff36243ae0fae89d5cd94432d03ddc2075394606ffbe398"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "1bb5e8d62c6c1b08125d858ee8afca117f1d63c03abc0b37a31164aacbe637e5"
 metafile = true
@@ -31,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/athena.pw.toml"
 hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "00a36c775ddcdbe1be447315b337cba5960778d9c0a13b40d22e012f6f069446"
 metafile = true
 
 [[files]]
@@ -144,10 +145,6 @@ hash = "fe0c032092af5482bd2255148c55ed5b9fabdfeccff4fe24f2faf488d04c5d15"
 metafile = true
 
 [[files]]
-file = "mods/mcwifipnp-1.6.9-1.20.1-forge.jar.disabled"
-hash = "7ad2a015c411efb00a24daf298b7740912e75aba8620ce47142a6b9c7c145941"
-
-[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "0e0a51b659665c2a08133e2faa163f783eabb4c983990b18edc7cdb2d933c1ba"
 metafile = true
@@ -215,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/unofficial-memory-leak-fix.pw.toml"
 hash = "c1c7cf4f030cd0a86271dde21402e987a79d2059b70c27cf8beb4d76d85f5b43"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "34c86f976127ded13120aa03479144f6d66fba395665827b4db649c23822f1b6"
 metafile = true
 
 [[files]]
