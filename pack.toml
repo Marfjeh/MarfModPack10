@@ -1,12 +1,12 @@
 name = "Mmp 10"
 author = "marf"
-version = "10.0.0"
+version = "10.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "30ca4225e2988fdb22e942ebc5636d3abb42c82c1776dcba82864d418d5db8a3"
+hash = "c3500ebca1691a670ec1c89d0b60674fb1d7d44661c66465061f18eeeda463a7"
 
 [versions]
 forge = "47.3.5"
