@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "f677eb3ed3c16dcb9ac336eef6a08e89b1e73a4dd93972f412b250c77e1195cf"
+hash = "ef9fe21d3a01e96ffb96de52730863f3b553e6edbb07c60582d47734b8714358"
 metafile = true
 
 [[files]]
@@ -126,12 +126,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "0fdf262047af365220b5c871dc63dab8e78905b44d4b0536b8bb99e9719d378e"
+hash = "dcef11b4a1c64a35412c41868fc7afbe648c575eacf1f70194fb3ed92552758e"
 metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "2317c1c79b8d9fbbeb3dc85d16e155da1bae27fecca7f5f884ccd33df55b0035"
+hash = "a6f1034f2f82d3342aec38d6f80fdded8e022a747514ab388692c30afce4f8e9"
 metafile = true
 
 [[files]]
@@ -146,12 +146,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "cb056c4a1fab790c8c2a96861e2a95c448f0740093c9816b2393524b176a3211"
+hash = "01153c00b03a16f9984d34507d20869b07d0d8e284d84a2f4c630e0b503800a6"
 metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "96cd385918f788eece8e8d88ef5bccda8dbea83d902e2262cccf43f5b1adb2b7"
+hash = "a9497456f2995c09550d79bcd6b0f99744928e12fd93b244c5ad51be84fbb082"
 metafile = true
 
 [[files]]
