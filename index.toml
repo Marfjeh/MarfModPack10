@@ -120,6 +120,11 @@ hash = "5a57417b90e803036e07b860a1c31de185dd4bd960856d3504c73352af42f865"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "466ab1bc0358d19032a13b1876eb4e2db3190c4ccae561b01c6bc07c1c9f1d2b"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "0fdf262047af365220b5c871dc63dab8e78905b44d4b0536b8bb99e9719d378e"
 metafile = true
@@ -177,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "baa3801c6db3a574401e1a80477f79ad59c99015e7d8b7bed4ee476c0340145b"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "49e021e36597c5897050cb5fb75ca22a36283fbb410a3320035a0ffaf5a657af"
 metafile = true
 
 [[files]]
